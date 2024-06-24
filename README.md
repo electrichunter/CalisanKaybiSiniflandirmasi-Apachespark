@@ -1,1 +1,1 @@
-# calışan-Kaybı-Sınıflandırmas
+# calışan-Kaydı-Sınıflandırmas
